@@ -4,7 +4,8 @@
 
 ![Hackathon](./assets/open_data_hackathon_cover.png)
 
-**Django Dashboard** created by `DataMinds` for the needs of Open Data Hackathon. The application is an end-to-end product, utilizing machine learning technologies to forecast water consumptions in households.
+**Django Dashboard** created by `DataMinds` for the needs of Open Data Hackathon. The application is an end-to-end product, utilizing machine learning technologies to forecast water consumptions in households and to give and overall view of the water and pipes managements across the country. 
+
 
 # TEAM BEHIND IT
 The team behind this idea are 3 engineers with strong background in machine learning and AI 
