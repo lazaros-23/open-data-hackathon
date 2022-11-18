@@ -7,7 +7,7 @@
 **Django Dashboard** created by `DataMinds` for the needs of Open Data Hackathon. The application is an end-to-end product, utilizing machine learning technologies to forecast water consumptions in households.
 
 # TEAM BEHIND IT
-The team behind this idea is 3 engineers with strong background in machine learning and AI 
+The team behind this idea are 3 engineers with strong background in machine learning and AI 
 
 * Panagiotis Papaemmanouil [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/panagiotis-papaemmanouil/)
 * Lazaros Paschalidis [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lazaros-paschalidis-6a5074118/)
