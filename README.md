@@ -55,6 +55,7 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
 ### 🧰 Frameworks, libraries and DB
 
 <p>
+    <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/django-150458.svg?logo=django&logoColor=white"></a>
     <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="https://plotly.com/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3c4c74.svg?logo=plotly&logoColor=white"></a>
@@ -76,7 +77,6 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
     <a href="https://colab.research.google.com/?utm_source=scs-index"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-black.svg?logo=google%20colab&logoColor=ffd936"></a>
     <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed.svg?logo=docker&logoColor=white"></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://www.google.com/intl/el_GR/chrome/"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-blue.svg?logo=google%20chrome&logoColor=red"></a>
-    <a href="https://www.google.com/sheets/about/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+    
    
 </p>
