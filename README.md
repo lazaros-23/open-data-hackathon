@@ -56,6 +56,8 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
 
 <p>
     <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/django-150458.svg?logo=django&logoColor=white"></a>
+    <a href=""><img alt="HTML5" src="https://img.shields.io/badge/html5-150458.svg?logo=html5&logoColor=white"></a>
+    <a href="https://www.javascript.com/"><img alt="javascript" src="https://img.shields.io/badge/javascript-150458.svg?logo=javascript&logoColor=white"></a>
     <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="https://plotly.com/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3c4c74.svg?logo=plotly&logoColor=white"></a>
